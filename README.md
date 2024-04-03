@@ -20,12 +20,14 @@
 ### ⚡ Publications
 
 **Conference**
-  - [1] Ludwig Schmid, **Sunghye Park**, Seokhyeong Kang and Rober Wille, “Hybrid Circuit Mapping: Leveraging the Full Spectrum of Computational Capabilities of Neutral Atom Quantum Computers,” *in arXiv:2311.41154v1 [quant-ph]*, 2023.
-  - [2] Kyungjun Min, Seongbin Kwon, Sung-Yun Lee, Dohun Kim, **Sunghye Park** and Seokhyeong Kang, “ClusterNet: Routing Congestion Prediction and Optimization using Netlist Clustering and Graph Neural Networks,” *in 2023 42th IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2023.
-  - [3] **Sunghye Park**, Dohun Kim, Jae-Yoon Sim, and Seokhyeong Kang, “[MCQA: Multi-Constraint Qubit Allocation for Near-FTQC Device](https://dl.acm.org/doi/abs/10.1145/3508352.3549462),” *in 2022 41th IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2022.
-  - [4] **Sunghye Park**, Daeyeon Kim, Minhyuk Kwoen, Jae-Yoon Sim, and Seokhyeong Kang, “[A Fast and Scalable Qubit-Mapping Method for Noisy Intermediate-Scale Quantum Computers](https://dl.acm.org/doi/abs/10.1145/3489517.3530402),” *in 2022 59th ACM/IEEE Design Automation Conference (DAC)*, 2022.
- - [5] **Sunghye Park**, Sunmean Kim, Sung-Yun Lee, Seokhyeong Kang, “Multi-Threshold Graphene Barristor-Based Ternary ALU,” *in Proc. IEEE International SoC Design Conference*, 2019.
- - [6] Sunmean Kim, Sung-Yun Lee, **Sunghye Park**, and Seokhyeong Kang, “Design of Quad-Edge-Triggered Sequential Logic Circuits for Ternary Logic,” *in Proc. IEEE 49th International Symposium on Multiple-Valued Logic (ISMVL)*, 2019, pp. 37-42.
+  - [1] **Sunghye Park**, Dohun Kim and Seokhyeong Kang, “HiLight: A Comprehensive Framework for High-Performance and Lightweight Scalability in *2024 61th ACM/IEEE Design Automation Conference (DAC)*, Jun, 2024. 
+  - [2] Ludwig Schmid, **Sunghye Park**, Seokhyeong Kang and Robert Wille, “Hybrid Circuit Mapping: Leveraging the Full Spectrum of Computational Capabilities of Neutral Atom Quantum Computers,” in *2024 61th ACM/IEEE Design Automation Conference (DAC)*, Jun, 2024. 
+  - [3] Seongbin Kwon*, Dohun Kim*, **Sunghye Park**, Seojeong Kim and Seokhyeong Kang, “QNSA: Quantum Neural Simulated Annealing for Combinatorial Optimization,” *in IEEE/ACM International Symposium on Quality Electronic Design (ISQED)*, 2023.
+  - [4] Kyungjun Min, Seongbin Kwon, Sung-Yun Lee, Dohun Kim, **Sunghye Park** and Seokhyeong Kang, “ClusterNet: Routing Congestion Prediction and Optimization using Netlist Clustering and Graph Neural Networks,” *in 2023 42th IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2023.
+  - [5] **Sunghye Park**, Dohun Kim, Jae-Yoon Sim, and Seokhyeong Kang, “[MCQA: Multi-Constraint Qubit Allocation for Near-FTQC Device](https://dl.acm.org/doi/abs/10.1145/3508352.3549462),” *in 2022 41th IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2022.
+  - [6] **Sunghye Park**, Daeyeon Kim, Minhyuk Kwoen, Jae-Yoon Sim, and Seokhyeong Kang, “[A Fast and Scalable Qubit-Mapping Method for Noisy Intermediate-Scale Quantum Computers](https://dl.acm.org/doi/abs/10.1145/3489517.3530402),” *in 2022 59th ACM/IEEE Design Automation Conference (DAC)*, 2022.
+ - [7] **Sunghye Park**, Sunmean Kim, Sung-Yun Lee, Seokhyeong Kang, “Multi-Threshold Graphene Barristor-Based Ternary ALU,” *in Proc. IEEE International SoC Design Conference*, 2019.
+ - [8] Sunmean Kim, Sung-Yun Lee, **Sunghye Park**, and Seokhyeong Kang, “Design of Quad-Edge-Triggered Sequential Logic Circuits for Ternary Logic,” *in Proc. IEEE 49th International Symposium on Multiple-Valued Logic (ISMVL)*, 2019, pp. 37-42.
  
 
 **Journal**
@@ -33,7 +35,7 @@
 
 
 **Patent**
- - [1] Seokhyeong Kang, **Sunghye Park**, Jae-Yoon Sim, and Minhyuk Kwoen, “QUBIT MAPPING METHOD AND QUANTUM APPARATUS USING THE SAME,” South Korea (applied)
+ - [1] Seokhyeong Kang, **Sunghye Park**, Jae-Yoon Sim, and Minhyuk Kwoen, “QUBIT MAPPING METHOD AND QUANTUM APPARATUS USING THE SAME,” South Korea (applied), US (applied).
  - [2] Seokhyeong Kang, **Sunghye Park**, Jae-Yoon Sim, and Dohun Kim, “MULTI-CONSTRAINT QUBIT ALLOCATION METHOD AND QUANTUM APPARATUS USING THE SAME,” South Korea (applied), US (applied).
  - [3] Seokhyeong Kang, Sunmean Kim, Sung-Yun Lee, and **Sunghye Park**, “TERNARY LOGIC CIRCUIT DEVICE,” South Korea 10-2021-0055864 (registered), US 17/489,629 (registered).
  - [4] Seokhyeong Kang, Sunmean Kim, Sung-Yun Lee, and **Sunghye Park**, “TERNARY LOGIC CIRCUIT DEVICE,” South Korea 10-2021-0055863 (registered), US 17/489,624 (registered).
