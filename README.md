@@ -1,10 +1,12 @@
 
 ## 👋 Sunghye Park
 
-> I'm a Ph.D. student in the Department of Electrical Engineering, Pohang University of Science and Technology (POSTECH), Korea. I’m working with Prof. Seokhyeong Kang in [CAD & SoC Design Lab.](http://csdl.postech.ac.kr/)
+> Sunghye Park is a postdoc in the [CAD & SoC Design Lab.](http://csdl.postech.ac.kr/) at Postech.
+She earned the B.S. degree in electronics engineering from the Kyungpook National University (KNU), South Korea, in 2019, and M.S. and Ph.D degrees in electrical engineering from the Pohang University of Science and Technology (POSTECH), South Korea, in 2019, and 2024, respectively (advisor: Prof. Seokhyeong Kang).
 > 
 
-> My current research interests include design automation for quantum computing🙂
+> Her research interests include design automation for quantum computing, especially in quantum circuit mapping (i.e., quantum compiler) and fault-tolerant quantum computing.
+She published papers in conferences such as DAC and ICCAD.🙂
 >
 
 
